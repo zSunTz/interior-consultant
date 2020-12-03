@@ -2,6 +2,9 @@
     .hide-on-mobile {
         display: none;
     }
+    .navbar {
+        padding: 15px 15px;
+    }
     .navbar__icon {
         display: block;
     }
