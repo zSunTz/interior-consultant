@@ -45,12 +45,18 @@ ul {
 
 .navbar__store-name {
     font-family: 'Crimson Pro', serif;
-    width: 106px;
+    width: 120px;
+    text-align: center;
     font-size: 14px;
     font-weight: 200;
     padding: 0 8px;
     display: block;
     border: 1px solid #fff;
+}
+
+.navbar__store-name:hover {
+    color: #181719;
+    background-color: #fff;
 }
 
 .navbar__list {

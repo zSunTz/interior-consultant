@@ -28,6 +28,7 @@
         width: 320px;
         bottom: -100px;
         left: 15%;
+        right: 5%;
     }
     .designer__name {
         font-size: 12px;
